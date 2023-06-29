@@ -28,7 +28,7 @@ Here I'm demostrating how I used Virtual Machines and observed how various netwo
 
 ![image](https://github.com/Tcoursecareers23/Azure-network/assets/138035327/632b4056-d560-481f-b67f-e5acf86f71d8)
 
-<p>Note: My actual e-mail is at the top right of the screen just so to can demostrate that I have knowledge of how to use the systems.
+<p>Note: My actual e-mail is at the top right of the screen just to demostrate that I have knowledge of how to use the systems.
 
 <br />
 
